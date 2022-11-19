@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_neflix/static/css/main.d2a42970.css",
+    "main.js": "/react_neflix/static/js/main.822d346e.js",
+    "static/js/787.a7be45d8.chunk.js": "/react_neflix/static/js/787.a7be45d8.chunk.js",
+    "index.html": "/react_neflix/index.html",
+    "main.d2a42970.css.map": "/react_neflix/static/css/main.d2a42970.css.map",
+    "main.822d346e.js.map": "/react_neflix/static/js/main.822d346e.js.map",
+    "787.a7be45d8.chunk.js.map": "/react_neflix/static/js/787.a7be45d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a42970.css",
+    "static/js/main.822d346e.js"
+  ]
+}
