@@ -31,8 +31,6 @@ API url요청을 위해 Axios 인스턴스를 별도로 만들어 메인화면 �
  > > - 검색과 관련된 영화의 이미지
 
 #### 4. 결과 예시 화면
+![react-netflix_02](https://user-images.githubusercontent.com/57528886/205677072-dd46f713-e484-4f65-90b5-8629ab7367b1.png)
+![react-netflix_03](https://user-images.githubusercontent.com/57528886/205677087-7615f891-0574-4645-946d-2cdac1d5b3c8.png)
 
-<div>
-<img src="https://user-images.githubusercontent.com/57528886/204869710-d7d737dd-680c-4c7c-a254-1204184699bc.png" width="350"/>
-<img src="https://user-images.githubusercontent.com/57528886/204869838-6edb1187-c3a5-44e5-b04a-d09200ad0974.png" width="407"/>
-</div>
