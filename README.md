@@ -12,14 +12,12 @@ API url요청을 위해 Axios 인스턴스를 별도로 만들어 메인화면 �
 ![JAVASCRIPT](https://img.shields.io/badge/javaScript-ededed?style=for-the-badge&logo=javaScript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/react-ededed?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br>
 - **library:** <br>
 ![npm](https://img.shields.io/badge/npm-ededed?style=for-the-badge&logo=npm&logoColor=2C8EBB)
 ![AXIOS](https://img.shields.io/badge/Axios-ededed?style=for-the-badge&logo=Axios&logoColor=5A29E4)
 ![React Router](https://img.shields.io/badge/ReactRouter-ededed?style=for-the-badge&logo=ReactRouter&logoColor=CA4245)
 ![styled-components](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
 
-<br>
 - **외부 api:** The Movie DB API
  
 
