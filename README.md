@@ -16,7 +16,7 @@ API url요청을 위해 Axios 인스턴스를 별도로 만들어 메인화면 �
 ![npm](https://img.shields.io/badge/npm-ededed?style=for-the-badge&logo=npm&logoColor=2C8EBB)
 ![AXIOS](https://img.shields.io/badge/Axios-ededed?style=for-the-badge&logo=Axios&logoColor=5A29E4)
 ![React Router](https://img.shields.io/badge/ReactRouter-ededed?style=for-the-badge&logo=ReactRouter&logoColor=CA4245)
-![styled-components](https://img.shields.io/badge/styled-components-ededed?style=for-the-badge&logo=styled-components&logoColor=CA4245)
+![styled-components](https://img.shields.io/badge/styledcomponents-ededed?style=for-the-badge&logo=styledcomponents&logoColor=CA4245)
 
 - **외부 api:** The Movie DB API
  
